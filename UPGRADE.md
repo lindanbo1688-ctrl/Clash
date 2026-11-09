@@ -1,13 +1,13 @@
-# Clash 规则库升级说明
+﻿# Clash 规则库升级说明
 
-> 目录：`H:\\软路由\\网络维护\\Clash-规则`  
+> 目录：`E:\\软路由\\网络维护\\Clash-规则`  
 > 上次升级：2026-10-18  
 > 上游主源：[ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)
 
 ## 目标
 
-本目录 TXT 供 GitHub `wusenyu168/Clash` 托管，OpenClash `rule-providers` 通过
-`cdn.jsdelivr.net/gh/wusenyu168/Clash@main/xxx.txt` 或 raw 拉取。
+本目录 TXT 供 GitHub `lindanbo1688-ctrl/Clash` 托管，OpenClash `rule-providers` 通过
+`cdn.jsdelivr.net/gh/lindanbo1688-ctrl/Clash@main/xxx.txt` 或 raw 拉取。
 
 ## 格式约定（务必遵守）
 
@@ -35,7 +35,7 @@
    - 重写文件头 `# updated / # count`
    - 刷新本文件 `UPGRADE.md` 中的「本次升级摘要」
 3. 抽查 `OpenAi.txt` / `YouTube.txt` / `ChinaIp.txt` 行数与格式
-4. 提交并推送到 GitHub `wusenyu168/Clash`（或你的 fork）
+4. 提交并推送到 GitHub `lindanbo1688-ctrl/Clash`（或你的 fork）
 5. OpenClash 清规则缓存后「更新规则集」
 
 若要**永久增加**自定义域名：编辑 `upgrade_rules.mjs` 里的 `LOCAL_EXTRAS`，再跑脚本。  
