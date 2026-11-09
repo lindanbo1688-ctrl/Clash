@@ -1,0 +1,11 @@
+payload:
+  # source: ACL4SSR (+ local customs)
+  # updated: 2026-10-18
+  # count: 5
+  # note: merged upstream+local
+
+  - DOMAIN,bahamut.akamaized.net
+  - DOMAIN,gamer-cds.cdn.hinet.net
+  - DOMAIN,gamer2-cds.cdn.hinet.net
+  - DOMAIN-SUFFIX,bahamut.com.tw
+  - DOMAIN-SUFFIX,gamer.com.tw

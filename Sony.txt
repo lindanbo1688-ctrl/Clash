@@ -1,0 +1,11 @@
+payload:
+  # source: ACL4SSR (+ local customs)
+  # updated: 2026-10-18
+  # count: 5
+  # note: merged upstream+local
+
+  - DOMAIN-SUFFIX,playstation.com
+  - DOMAIN-SUFFIX,playstation.net
+  - DOMAIN-SUFFIX,playstationnetwork.com
+  - DOMAIN-SUFFIX,sony.com
+  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com

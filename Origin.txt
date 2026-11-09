@@ -1,0 +1,13 @@
+payload:
+  # source: ACL4SSR (+ local customs)
+  # updated: 2026-10-18
+  # count: 7
+  # note: merged upstream+local
+
+  - DOMAIN,cloudsync-prod.s3.amazonaws.com
+  - DOMAIN,eaasserts-a.akamaihd.net
+  - DOMAIN,origin-a.akamaihd.net
+  - DOMAIN,originasserts.akamaized.net
+  - DOMAIN,rtm.tnt-ea.com
+  - DOMAIN-SUFFIX,ea.com
+  - DOMAIN-SUFFIX,origin.com

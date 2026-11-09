@@ -1,0 +1,10 @@
+payload:
+  # source: ACL4SSR (+ local customs)
+  # updated: 2026-10-18
+  # count: 4
+  # note: local custom
+
+  - DOMAIN-KEYWORD,card2d
+  - DOMAIN-SUFFIX,card2d.com
+  - DOMAIN-KEYWORD,startselect.com  #英国礼品卡
+  - DOMAIN-KEYWORD,whoer

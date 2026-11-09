@@ -1,0 +1,11 @@
+payload:
+  # source: ACL4SSR (+ local customs)
+  # updated: 2026-10-18
+  # count: 4
+  # note: local custom; removed DOMAIN-KEYWORD,transfer
+
+  # DOMAIN-KEYWORD,transfer 已移除：过宽（会误伤 filetransfer 等）
+  - DOMAIN-SUFFIX,transfer.sh
+  - DOMAIN-SUFFIX,bitbrowser.com
+  - DOMAIN-SUFFIX,bitbrowser.cn
+  - DOMAIN-KEYWORD,bitbrowser

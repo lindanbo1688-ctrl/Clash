@@ -1,0 +1,9 @@
+payload:
+  # source: ACL4SSR (+ local customs)
+  # updated: 2026-10-18
+  # count: 3
+  # note: merged upstream+local
+
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,copilot.cloud.microsoft
+  - DOMAIN-SUFFIX,copilot.microsoft.com

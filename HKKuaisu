@@ -1,0 +1,10 @@
+payload:
+  # source: ACL4SSR (+ local customs)
+  # updated: 2026-10-18
+  # count: 4
+  # note: local custom
+
+  - DOMAIN-KEYWORD,ipfoxy
+  - DOMAIN-KEYWORD,kookeey
+  - DOMAIN-KEYWORD,ip2world
+  - DOMAIN-SUFFIX,gate-sg.ipfoxy.io

@@ -1,0 +1,20 @@
+payload:
+  # source: ACL4SSR (+ local customs)
+  # updated: 2026-10-18
+  # count: 14
+  # note: local custom
+
+  - DOMAIN-KEYWORD,time.apple
+  - DOMAIN-KEYWORD,securemetrics.apple
+  - DOMAIN-KEYWORD,ocsp2.apple
+  - DOMAIN-KEYWORD,ess.apple
+  - DOMAIN-KEYWORD,mastercard
+  - DOMAIN-KEYWORD,apay.apple
+  - DOMAIN-KEYWORD,device.apple
+  - DOMAIN-KEYWORD,fds.apple
+  - DOMAIN-KEYWORD,gsa.apple
+  - DOMAIN-KEYWORD,gsas.apple
+  - DOMAIN-KEYWORD,wps.apple.com
+  - DOMAIN-KEYWORD,apple-pay
+  - DOMAIN-SUFFIX,apple-pay.com
+  - DOMAIN-SUFFIX,applepay.cdn-apple.com
