@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Upgrade H:\软路由\网络维护\Clash-规则 from ACL4SSR upstream + keep local customs.
  * Re-run anytime; see UPGRADE.md in the rules dir after first run.
  */
@@ -368,8 +368,8 @@ const md = `# Clash 规则库升级说明
 
 ## 目标
 
-本目录 TXT 供 GitHub \`wusenyu168/Clash\` 托管，OpenClash \`rule-providers\` 通过
-\`cdn.jsdelivr.net/gh/wusenyu168/Clash@main/xxx.txt\` 或 raw 拉取。
+本目录 TXT 供 GitHub \`lindanbo1688-ctrl/Clash\` 托管，OpenClash \`rule-providers\` 通过
+\`cdn.jsdelivr.net/gh/lindanbo1688-ctrl/Clash@main/xxx.txt\` 或 raw 拉取。
 
 ## 格式约定（务必遵守）
 
@@ -394,7 +394,7 @@ const md = `# Clash 规则库升级说明
    - 去掉 LAN 中的 198.18
    - 重写文件头 \`# updated / # count\`
 3. 抽查 \`OpenAi.txt\` / \`YouTube.txt\` / \`ChinaIp.txt\` 行数与格式
-4. 提交并推送到 GitHub \`wusenyu168/Clash\`（或你的 fork）
+4. 提交并推送到 GitHub \`lindanbo1688-ctrl/Clash\`（或你的 fork）
 5. OpenClash 清规则缓存后「更新规则集」
 
 ## 文件 ↔ 上游映射
