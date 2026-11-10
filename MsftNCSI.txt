@@ -1,0 +1,8 @@
+payload:
+  # source: local (Windows 连通检测)
+  # updated: 2026-11-10
+  # note: 须在 SRC-IP 等规则之前；配合 dns.fake-ip-filter
+
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN,dns.msftncsi.com

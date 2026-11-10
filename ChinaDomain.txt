@@ -279,6 +279,7 @@ payload:
   - DOMAIN-SUFFIX,netease.com
   - DOMAIN-SUFFIX,ydstatic.com
   - DOMAIN-SUFFIX,youdao.com
+  - DOMAIN-KEYWORD,youdao
   - DOMAIN-SUFFIX,pplive.com
   - DOMAIN-SUFFIX,pptv.com
   - DOMAIN-SUFFIX,pinduoduo.com

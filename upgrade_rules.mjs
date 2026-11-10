@@ -153,6 +153,9 @@ const LOCAL_EXTRAS = {
     "DOMAIN-SUFFIX,fun.tv",
     "DOMAIN-SUFFIX,funshion.com",
   ],
+  "ChinaDomain.txt": [
+    "DOMAIN-KEYWORD,youdao",
+  ],
   "Card2D.txt": [
     "DOMAIN-KEYWORD,card2d",
     "DOMAIN-SUFFIX,card2d.com",

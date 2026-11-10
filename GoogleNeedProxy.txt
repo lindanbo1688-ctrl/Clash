@@ -1,0 +1,11 @@
+payload:
+  # source: local (家庭/通用 yaml 内联迁移)
+  # updated: 2026-11-10
+  # note: 直连易 SSL timeout；须排在 ChinaDomain/GoogleCN 之前，且排在 OpenAi 之后
+
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,recaptcha.net
+  - DOMAIN-SUFFIX,tools.google.com
+  - DOMAIN,dl.google.com
+  - DOMAIN-SUFFIX,dl.l.google.com
